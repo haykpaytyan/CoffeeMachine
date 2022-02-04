@@ -1,8 +1,8 @@
 # CoffeeMachine
 Coffee Machine
 
-Tasks about coffee machine using oop 
-///////////////////////////////////
+Tasks about coffee machine using OOP 
+
 This is Description of the last task
 
 But just one action isn't interesting. Let's improve the program so it can do multiple actions, one after another. The program should repeatedly ask what the user wants to do. If the user types "buy", "fill" or "take", then just do what the program did in the previous step. However, if the user wants to switch off the coffee machine, he should type "exit". Then the program should terminate. Also, when the user types "remaining", the program should output all the resources that the coffee machine has.

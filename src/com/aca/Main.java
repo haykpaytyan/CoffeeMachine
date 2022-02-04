@@ -14,8 +14,8 @@ public class Main {
 //        Action action = new Action();
 //        action.choose();
 
-        OnCoffeeLoop as = new OnCoffeeLoop();
-        as.choose();
+        OnCoffeeLoop coffee = new OnCoffeeLoop();
+        coffee.choose();
 
     }
 }
